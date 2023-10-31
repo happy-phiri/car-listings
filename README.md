@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is a simple car listings web app built using React and React Router 6. It allows users to explore a catalog of cars, apply various filters, and search for their ideal vehicles. The project also utilizes Bootstrap for styling and includes Font Awesome icons for enhanced design.
+This is a simple car listings web app built using React and React Router 6. It allows users to explore a catalog of cars, apply various filters, and search for their ideal vehicles. The project also utilizes some Bootstrap for styling and includes Font Awesome icons for enhanced design.
 
-The site is hosted on Netlify, and you can access it [here](your-site-url). <!-- Replace 'your-site-url' with the actual URL after uploading to GitHub and Netlify. -->
+The site is hosted on Netlify, and you can access it https://car-listing-hp.netlify.app/.
 
 ## Features
 
